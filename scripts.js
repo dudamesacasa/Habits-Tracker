@@ -27,4 +27,3 @@ nlwSetup.setData(data)
 nlwSetup.load()
 
 const date = new Date()
-alert(date)
